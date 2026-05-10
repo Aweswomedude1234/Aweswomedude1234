@@ -1,7 +1,7 @@
 # Hi there 👋
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aweswomedude1234&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+![GitHub stats](https://stats.dooboo.io/api/github-stats-advanced?login=Aweswomedude1234)
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aweswomedude1234&theme=tokyonight"/>
+![GitHub streak](https://streak-stats.demolab.com?user=Aweswomedude1234&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aweswomedude1234&layout=compact&theme=tokyonight"/>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aweswomedude1234&theme=tokyonight)

@@ -1,7 +1,7 @@
 # Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Aweswomedude1234&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aweswomedude1234&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-![Streak](https://streak-stats.demolab.com?user=Aweswomedude1234&theme=radical)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Aweswomedude1234&theme=tokyonight"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aweswomedude1234&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aweswomedude1234&layout=compact&theme=tokyonight"/>
